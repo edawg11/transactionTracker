@@ -1,0 +1,31 @@
+.header {
+	margin-bottom: 10px;
+}
+
+.balanceRow {
+	margin-bottom: 20px;
+}
+
+.buttonRow {
+	margin-top: 10px;
+}
+
+#template {
+	visibility: hidden;
+}
+
+.balanceSpan {
+
+}
+
+.green {
+	color: green;
+}
+
+.red {
+	color: red;
+}
+
+.black {
+	color: black;
+}
